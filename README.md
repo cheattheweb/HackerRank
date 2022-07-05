@@ -1,3 +1,4 @@
 # HackerRank Problems
 
-[C problems](https://www.hackerrank.com/domains/c)
+[C Problems](https://www.hackerrank.com/domains/c)
+[Python Problems](https://www.hackerrank.com/domains/python)
